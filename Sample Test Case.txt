@@ -1,0 +1,17 @@
+Test case example based on a specific scenario. 
+
+Test Case ID: #BST001
+Test Scenario: To authenticate a successful user login on Gmail.com
+Test Steps:
+The user navigates to Gmail.com.
+The user enters a registered email address in the ’email’ field.
+The user clicks the ‘Next’ button.
+The user enters the registered password.
+The user clicks ‘Sign In.’
+Prerequisites: A registered Gmail ID with a unique username and password.
+Browser: Chrome v 86. 
+Device: Samsung Galaxy Tab S7.
+Test Data: Legitimate username and password.
+Expected/Intended Results: Once username and password are entered, the web page redirects to the user’s inbox, displaying and highlighting new emails at the top.
+Actual Results: As Expected
+Test Status – Pass/Fail: Pass
